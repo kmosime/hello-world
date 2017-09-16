@@ -1,2 +1,2 @@
 # hello-world
-my ideas and resources
+I am a student at Wethinkcode_ studying software engineering (fullstack web development).
